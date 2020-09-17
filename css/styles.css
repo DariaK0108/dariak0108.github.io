@@ -1,0 +1,73 @@
+﻿nav {
+    /* background-color: #DBEBF4; */
+    background-color: #e0b8f2;
+    font-size: 1.2em;
+}
+
+a,h5 {
+    color: #8945a8;
+}
+
+/* override the bootstrap light gray background */
+.bg-light {
+    background-color: #e0b8f2 /* #f8f9fa */ !important;
+}
+
+.myicon {
+    content: url('../img/openprocessingjpg.jpg');
+    height: 18px;
+    width: 18px; 
+    display: inline;
+    /* Other styles here */
+}
+
+.text-primary {
+    color: #8945a8 !important;
+}
+  
+a.text-primary:hover, a.text-primary:focus {
+    color: #8945a8 !important;
+}
+
+
+.btn-primary {
+    
+    background-color: #8945a8;
+    border-color: #8945a8;
+}
+  
+.btn-primary:hover {
+    
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+
+.btn-outline-primary {
+    color: #8945a8;
+    border-color: #8945a8;
+}
+  
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+
+body {
+    /* font-family: 'Montez', cursive; */
+    font-family: 'Noto Serif', serif;
+    
+}
+
+.textcarousel-lg, .textcarousel-sm {
+    font-family: 'Dancing Script', cursive;
+}
+
+.textcarousel-lg {
+    font-size: 2em;
+}
+
+.textcarousel-sm {
+    font-size: 1.4em;
+}
+
