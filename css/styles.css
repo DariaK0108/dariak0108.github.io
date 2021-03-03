@@ -8,6 +8,10 @@ a,h5 {
     color: #8945a8;
 }
 
+a {
+    text-decoration: underline;
+}
+
 /* override the bootstrap light gray background */
 .bg-light {
     background-color: #e0b8f2 /* #f8f9fa */ !important;
